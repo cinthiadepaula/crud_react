@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crud_react/static/css/main.06eab811.chunk.css",
+    "main.js": "/crud_react/static/js/main.a20f1416.chunk.js",
+    "main.js.map": "/crud_react/static/js/main.a20f1416.chunk.js.map",
+    "runtime-main.js": "/crud_react/static/js/runtime-main.a01b8a13.js",
+    "runtime-main.js.map": "/crud_react/static/js/runtime-main.a01b8a13.js.map",
+    "static/css/2.fb7cd391.chunk.css": "/crud_react/static/css/2.fb7cd391.chunk.css",
+    "static/js/2.fd874ba1.chunk.js": "/crud_react/static/js/2.fd874ba1.chunk.js",
+    "static/js/2.fd874ba1.chunk.js.map": "/crud_react/static/js/2.fd874ba1.chunk.js.map",
+    "index.html": "/crud_react/index.html",
+    "precache-manifest.11bf6fe5c25e47d8aba5202dad96a537.js": "/crud_react/precache-manifest.11bf6fe5c25e47d8aba5202dad96a537.js",
+    "service-worker.js": "/crud_react/service-worker.js",
+    "static/css/2.fb7cd391.chunk.css.map": "/crud_react/static/css/2.fb7cd391.chunk.css.map",
+    "static/css/main.06eab811.chunk.css.map": "/crud_react/static/css/main.06eab811.chunk.css.map",
+    "static/js/2.fd874ba1.chunk.js.LICENSE.txt": "/crud_react/static/js/2.fd874ba1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/crud_react/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logotipo.png": "/crud_react/static/media/logotipo.26254cdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a01b8a13.js",
+    "static/css/2.fb7cd391.chunk.css",
+    "static/js/2.fd874ba1.chunk.js",
+    "static/css/main.06eab811.chunk.css",
+    "static/js/main.a20f1416.chunk.js"
+  ]
+}
